@@ -1,5 +1,5 @@
 # Self-supervised Pretraining for Deep Hash-based Image Retrieval
-Official code for "Self-supervised Pretraining for Deep Hash-based Image Retrieval" (ICIP 2022)
+Official code for [Self-supervised Pretraining for Deep Hash-based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9897296) (ICIP 2022)
 
 
 ## Requirements
@@ -31,3 +31,16 @@ Trained model samples are [here](https://drive.google.com/drive/folders/1MkMa0cK
 Outputs top-10 retrieved images & mAP score.
 Visualized results are saved at 'Vis/'
 
+
+## Citation
+Please use this to cite our work:
+```
+@inproceedings{yang2022self,
+  title={Self-Supervised Pretraining for Deep Hash-Based Image Retrieval},
+  author={Yang, Haeyoon and Jang, Young Kyun and Kang, Isaac and Cho, Nam Ik},
+  booktitle={2022 IEEE International Conference on Image Processing (ICIP)},
+  pages={3813--3817},
+  year={2022},
+  organization={IEEE}
+}
+```
